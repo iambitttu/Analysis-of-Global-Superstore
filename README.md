@@ -1,5 +1,7 @@
 # Analysis-on-Global-Superstore
 
+https://public.tableau.com/app/profile/bittu.kumar.singh/viz/AnalysisonGlobalSuperstore/Dashboard1
+
 The dataset of Global Superstore typically includes information such as customer demographics, product details, sales transactions, shipping details, and geographic information. This rich dataset enables analysts to perform a wide range of analyses, including:
 
 1. Sales Analysis: Analysts can examine sales trends, identify top-performing products, regions, and customer segments. They can also evaluate the effectiveness of different marketing and sales strategies.
