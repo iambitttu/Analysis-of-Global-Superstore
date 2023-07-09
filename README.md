@@ -1,4 +1,5 @@
 # Analysis-on-Global-Superstore
+![Analysis on Global Superstore](https://github.com/iambitttu/Analysis-on-Global-Superstore/assets/117813323/e4c75d71-e290-4187-b0be-39cd7ddafb1b)
 
 https://public.tableau.com/app/profile/bittu.kumar.singh/viz/AnalysisonGlobalSuperstore/Dashboard1
 
